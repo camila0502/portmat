@@ -1,0 +1,69 @@
+  body {
+      background: linear-gradient(to right, rgb(204, 161, 103), #c4d067);
+  }
+
+  h1 {
+      color: #581800;
+      font-size: 42px;
+      font-family: 'Lobster', cursive;
+  }
+
+  .produto {
+      color: #581800;
+      font-size: 32px;
+      background: linear-gradient(to right, #16a085, #d4ea30);
+      box-shadow: 0 0 15px #d0d001;
+      border-radius: 26px;
+  }
+
+  #marca {
+      color: darkmagenta;
+      text-align: right;
+      font-size: 18px;
+  }
+
+  h2 {
+      font-family: 'Imbue', serif;
+      text-align: center;
+  }
+
+
+  div {
+      margin: 24px;
+      border: 5px solid darkgreen;
+      padding: 26px;
+      border-top-left-radius: 26px;
+      border-bottom-right-radius: 26px;
+  }
+
+
+  .menu {
+      padding: 10px;
+      padding-right: 15px;
+      padding-left: 15px;
+      display: inline;
+      border-right: 6px solid #87a000;
+  }
+
+  #carrinho {
+      position: fixed;
+      bottom: 0;
+      right: 0;
+      width: 300px;
+      border: 3px solid #73AD21;
+      border-radius: 100px;
+      width: 60px;
+      height: 60px;
+  }
+
+  img {
+      border-radius: 100px;
+      border: 5px solid white;
+      vertical-align: right;
+
+  }
+
+  img:hover {
+      width: 140px;
+      height: 140px;
+  }

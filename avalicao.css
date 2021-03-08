@@ -1,0 +1,55 @@
+  body {
+      background: linear-gradient(to right, #3c8fc6, #6dd5fa, #ffffff);
+  }
+
+  h1 {
+      color: #02002c;
+      font-size: 42px;
+      font-family: 'Lobster', cursive;
+  }
+
+  .produto {
+      color: #010019;
+      font-size: 32px;
+      background: #b7a858;
+      box-shadow: 0 0 15px #010019;
+      border-radius: 26px;
+  }
+
+  h2 {
+      font-family: 'Imbue', serif;
+      text-align: center;
+  }
+
+
+  div {
+      margin: 2px;
+      border: 2px;
+      padding: 15px;
+      font-family: 'Raleway', sans-serif;
+      font-size: 20px;
+
+  }
+
+  .menu {
+      padding: 10px;
+      padding-right: 15px;
+      padding-left: 15px;
+      display: inline;
+      border-right: 6px solid #02002c;
+      border-left: 6px solid #02002c;
+      border-radius: 100px;
+  }
+
+
+  img {
+      border-radius: 100px;
+      border: 5px solid white;
+      vertical-align: right;
+
+  }
+
+  img:hover {
+      width: 140px;
+      height: 140px;
+  }
